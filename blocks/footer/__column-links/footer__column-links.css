@@ -1,0 +1,9 @@
+.footer__column-links {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer__column-bullet:not(:last-child) {
+  margin-bottom: 10px;
+}

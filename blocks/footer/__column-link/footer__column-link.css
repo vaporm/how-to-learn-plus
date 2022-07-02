@@ -1,0 +1,12 @@
+.footer__column-link {
+  line-height: 18px;
+  font-size: 18px;
+  font-family: "Inter-Regular";
+  font-weight: 400;
+  color: white;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  position: relative;
+  vertical-align: middle;
+  text-decoration: none;
+}
