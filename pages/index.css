@@ -1,8 +1,11 @@
-/*vendor */
+/* vendor */
 @import url(../vendor/normalize.css);
 
+/* fonts */
+@import url(../styles/fonts.css);
+
 /* root */
-@import url(../root/root.css);
+@import url(../blocks/root/root.css);
 
 /* header */
 @import url(../blocks/rotation/_360/rotation_360.css);
