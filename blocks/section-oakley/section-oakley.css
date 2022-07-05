@@ -1,6 +1,6 @@
 .section-oakley {
   padding-top: 160px;
   position: relative;
-  z-index: -1;
-  background-color: lightgrey;
+  z-index: 0;
+  background-color: #f2f2f2;
 }

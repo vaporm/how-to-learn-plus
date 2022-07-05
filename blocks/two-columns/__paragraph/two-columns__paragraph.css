@@ -4,3 +4,7 @@
   line-height: 34px;
   font-weight: normal;
 }
+
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;
+}
