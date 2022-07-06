@@ -4,6 +4,3 @@
   padding: 0px;
 }
 
-.footer__column-bullet:not(:last-child) {
-  margin-bottom: 10px;
-}

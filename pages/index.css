@@ -13,9 +13,11 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
-@import url(../blocks/header/__link/link.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/header.css);
+
+/* all links */
+@import url(../blocks/link/link.css); 
 
 /* logo */
 @import url(../blocks/logo/_place/logo_place_footer.css);
@@ -28,15 +30,15 @@
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
-@import url(../blocks/two-columns/__brief/two_columns__brief.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__paragraph/_text-inline-semibold/two-columns__paragraph_inline-semibold.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/two-columns/__span_accent/span-accent.css);
-@import url(../blocks/section-description/section-description.css);
+@import url(../blocks/description/description.css);
 
 /* techiques */
-@import url(../blocks/section-techiques/section-techiques.css);
+@import url(../blocks/techiques/techiques.css);
 
 /* cards */
 @import url(../blocks/cards/__description/cards__description.css);
@@ -51,16 +53,16 @@
 @import url(../blocks/video/video.css);
 
 /* oakley */
-@import url(../blocks/section-oakley/section-oakley.css);
+@import url(../blocks/oakley/oakley.css);
 
 /* feynman */
-@import url(../blocks/section-feynman/__link/feynman__link.css);
-@import url(../blocks/section-feynman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/section-feynman/__title/feynman__title.css);
-@import url(../blocks/section-feynman/feynman.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/feynman.css);
 
 /* digits */
-@import url(../blocks/section-digits/section-digits.css);
+@import url(../blocks/digits/digits.css);
 
 /* table */
 @import url(../blocks/table/__cell/table__cell.css);

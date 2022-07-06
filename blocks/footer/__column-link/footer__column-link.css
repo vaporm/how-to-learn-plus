@@ -1,7 +1,7 @@
 .footer__column-link {
   line-height: 18px;
   font-size: 18px;
-  font-family: "Inter";
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
   color: white;
   margin-bottom: 0px;
@@ -9,4 +9,10 @@
   position: relative;
   vertical-align: middle;
   text-decoration: none;
+}
+
+.footer__column-link:hover
+{
+  opacity: 0.5;
+  transition: 0.5s;
 }

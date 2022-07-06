@@ -2,11 +2,16 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: 400;
-  font-family: "Inter";
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   position: absolute;
   top: 50%;
   right: 48px;
   color: #2f80ed;
   text-decoration: none;
 }
+.feynman__link:hover
+{
+  opacity: 0.5;
+  transition: 0.5s;
 
+}
